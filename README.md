@@ -50,3 +50,12 @@ Highlighted operational gaps and improvement areas
 ## Dashboard
 <img width="1289" height="665" alt="Dashboard" src="https://github.com/user-attachments/assets/9bf0f0f2-2251-427c-bc73-967752b15a83" />
 
+## Project Insights
+-R02 and R03 handled the most calls and generated the highest revenue.
+-1–2 hour calls had the best satisfaction ratings.
+-Female customers gave slightly higher ratings than males.
+-Most calls occurred on weekends.
+-Cleveland had high volume but lower average ratings.
+
+## Conclusion
+This project helped me understand how to turn raw call center data into meaningful insights using KPIs and dashboards. I was able to track agent performance, customer satisfaction, and revenue patterns across different cities and timeframes. It gave me hands-on experience with data cleaning, visualization, and storytelling — and showed how analytics can actually drive better decisions in real-world scenarios
