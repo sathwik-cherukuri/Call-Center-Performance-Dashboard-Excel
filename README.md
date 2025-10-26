@@ -16,3 +16,33 @@ Developed an interactive dashboard to analyze call center performance, customer 
 
 Dashboard Interaction<a href = "https://github.com/sathwik-cherukuri/Call-Center-Performance-Dashboard-Excel/blob/main/Dashboard.png"> View Dashboard</a>
 
+## process
+1. Data Preparation
+Imported raw call center logs containing call details, customer demographics, and satisfaction ratings.
+
+Cleaned and formatted data: handled missing values, standardized column types, and created derived fields like duration buckets and rounded ratings.
+
+2. KPI Aggregation
+Calculated key performance indicators (KPIs) including:
+
+Total calls, total duration, total purchase amount
+
+Average satisfaction rating and count of 5-star calls
+
+Grouped metrics by representative, city, gender, weekday, and duration bucket.
+
+3. Dashboard Development
+Designed Excel dashboard with pivot tables and charts to visualize:
+
+Monthly and weekday call trends
+
+Agent performance and revenue contribution
+
+Satisfaction distribution across cities and demographics
+
+4. Insight Generation
+Identified top-performing agents and cities.
+
+Analyzed patterns in customer satisfaction and purchase behavior.
+
+Highlighted operational gaps and improvement areas
