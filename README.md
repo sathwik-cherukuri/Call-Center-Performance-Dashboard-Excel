@@ -46,3 +46,7 @@ Identified top-performing agents and cities.
 Analyzed patterns in customer satisfaction and purchase behavior.
 
 Highlighted operational gaps and improvement areas
+
+## Dashboard
+<img width="1289" height="665" alt="Dashboard" src="https://github.com/user-attachments/assets/9bf0f0f2-2251-427c-bc73-967752b15a83" />
+
