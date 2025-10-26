@@ -17,7 +17,7 @@ Developed an interactive dashboard to analyze call center performance, customer 
 Dashboard Interaction<a href = "https://github.com/sathwik-cherukuri/Call-Center-Performance-Dashboard-Excel/blob/main/Dashboard.png"> View Dashboard</a>
 
 ## process
-1. Data Preparation
+### 1. Data Preparation
 Imported raw call center logs containing call details, customer demographics, and satisfaction ratings.
 
 Cleaned and formatted data: handled missing values, standardized column types, and created derived fields like duration buckets and rounded ratings.
