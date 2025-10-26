@@ -14,3 +14,5 @@ Developed an interactive dashboard to analyze call center performance, customer 
 -Do longer calls lead to higher ratings or purchases?
 -Which duration bucket yields the most 5-star ratings?
 
+Dashboard Interaction<a href = "https://github.com/sathwik-cherukuri/Call-Center-Performance-Dashboard-Excel/blob/main/Dashboard.png"> View Dashboard</a>
+
