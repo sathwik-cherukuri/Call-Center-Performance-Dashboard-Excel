@@ -1,4 +1,4 @@
-# Call-Center-Performance-Dashboard-Excel
+# CallCenter Performance Dashboard Excel
 Interactive Excel dashboard for analyzing and visualizing business performance metrics.
 
 ## Project objective
